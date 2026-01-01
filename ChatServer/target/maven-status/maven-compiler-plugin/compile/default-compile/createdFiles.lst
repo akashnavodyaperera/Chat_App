@@ -1,0 +1,3 @@
+Handler\ClientHandler.class
+messageserver\chatserver\ChatServer.class
+messageserver\chatserver\Database\Dbconnection.class
